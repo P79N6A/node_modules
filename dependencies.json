@@ -1,0 +1,11 @@
+{
+     "js":[
+           "app/js/script.js"
+     ],
+     "css":[
+           "app/css/*.css"
+    ],
+     "sass":[
+           "app/sass/*.sass"
+     ]
+} 
